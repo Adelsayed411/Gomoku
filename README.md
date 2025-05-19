@@ -1,6 +1,6 @@
-# Gomoku AI - Course Work Project 
+# Gomoku Game
 **Faculty of Computers and Artificial Intelligence, Cairo University**  
-*Artificial Intelligence Course Project*
+*AI Course Project*
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
